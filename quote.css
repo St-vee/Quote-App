@@ -104,7 +104,7 @@ body{
     padding: 13px 22px;
     font-style: 16px;
     border-radius: 30px;
-    transition: .5s;
+    transition: .2s;
 }
 .features ul li:hover{
    color: whitesmoke;
